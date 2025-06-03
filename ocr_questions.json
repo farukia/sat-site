@@ -1,0 +1,878 @@
+[
+  {
+    "id": "2d1e5eff",
+    "question": "Answer\nCorrect Answer: C\nRationale\nChoice C is correct. It's given that the graphs of the equations ",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "Choice C is correct. It's given that the graphs of the equations in the given system intersect at exactly one point, (z, y), in the xy-plane. Therefore, (a, y) is the only solution to the given system of equations. The given system of equations can be solved by subtracting the second equation, y = 3a + a, from the first equation, y = 2x? — 21x + 64. This yields y-y= (22? — 21x” + 64) — (8a + a), or 0 = 2a? — 24x + 64 — a. Since the given system has only one solution, this equation has only one solution. A quadratic equation in the form re? + se+t= 0, where 7, s, and ¢ are constants, has one solution if and only if the discriminant, s? — Art, is equal to zero. Substituting 2 for r, —24 for s, and —a + 64 for t in the expression s? — 4rt yields (—24)? — (4)(2)(64 — a). Setting this expression equal to zero yields (—24)* — (4)(2)(64 — a) = 0, or 8a + 64 = O. Subtracting 64 from both sides of this equation yields 8a = —64. Dividing both sides of this equation by 8 yields a = —8. Substituting —8 for a in the equation 0 = 2a? — 24% + 64—a yields 0 = 2x? — 242 + 64+ 8, or 0 = 2x? — 24@ + 72. Factoring 2 from the right-hand side of this equation yields 0= 2(a? — 122+ 36). Dividing both sides of this equation by 2 yields 0 = 2? — 12a + 36, which is equivalent to 0 = (x — 6)(x — 6), or 0 = (a — 6)”. Taking the square root of both sides of this equation yields 0 = x — 6. Adding 6 to both sides of this equation yields x = 6."
+  },
+  {
+    "id": "005e9982",
+    "question": "f(x) = 9,000(0.66)”  The given function f models the number of advertisements a company sent to its clients each year, where z represents the number of years since 1997, and0 < x < 5. If y = f(z) is graphed in the xy-plane, which of the following is the best interpretation of the y-intercept of the graph in this context?",
+    "choices": [
+      "The minimum estimated number of advertisements the company sent to its clients during the 5 years  was 1,708.",
+      "The minimum estimated number of advertisements the company sent to its clients during the 5 years was 9,000.",
+      "The estimated number of advertisements the company sent to its clients in 1997 was 1,708.",
+      "The estimated number of advertisements the company sent to its clients in 1997 was 9,000."
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "005e9982",
+    "question": "Answer\n\nCorrect Answer: D\n\nRationale\n\nChoice D is correct. The y-intercept of a graph in the xy-plan",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. The y-intercept of a graph in the xy-plane is the point where 2 = 0. For the given function f, the y- intercept of the graph of y = f(z) in the xy-plane can be found by substituting 0 for x in the equation y = 9,000(0.66)”, which gives y = 9,000(0.66)°. This is equivalent to y = 9,000(1), or y = 9,000. Therefore, the y-intercept of the graph of y = f(z) is (0, 9,000). It’s given that the function f models the number of advertisements a company sent to its clients each year. Therefore, f(x) represents the estimated number of advertisements the company sent to its clients each year. It's also given that x represents the number of years since 1997. Therefore, x = 0 represents 0 years since 1997, or 1997. Thus, the best interpretation of the y-intercept of the graph of y = f(z) is that the estimated number of advertisements the company sent to its clients in 1997 was 9,000."
+  },
+  {
+    "id": "65244c8d",
+    "question": "4/ (a — 2)? = 3a + 34\nWhat is the smallest solution to the given equation?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "65244c8d",
+    "question": "Answer\nCorrect Answer: -3\nRationale\nThe correct answer is —3. Squaring both sides of the given equat",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is —3. Squaring both sides of the given equation yields (x — 2)? = 3a + 34, which can be rewritten as x? —4¢ + 4 = 3x + 34. Subtracting 3a and 34 from both sides of this equation yields 2? — 7x — 30 = 0. This quadratic equation can be rewritten as (x — 10)(x + 3) = 0. According to the zero product property, (x — 10)(a + 3) equals zero when either 2 — 10 = Oor x + 3 = O. Solving each of these equations for x yields x = 10 or x = —3. Therefore, the given equation has two solutions, 10 and —3. Of these two solutions, —3 is the smallest solution to the given equation."
+  },
+  {
+    "id": "68298043",
+    "question": "ytk=2+26\ny—-k=2?—52\nIn the given system of equations, k is a constant. The system has exactly one di",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "68298043",
+    "question": "Answer\n\nCorrect Answer: 17.5, 35/2\nRationale\nThe correct answer is 3. Subtracting the second equatio",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is 3. Subtracting the second equation from the first equation yields (y+k) —(y—k) = 2+ 26 — (x? — 52), or 2k = —x? + 6x + 26. This is equivalent to x” — 6x + (2k — 26) = 0. It's given that the system has exactly one distinct real solution; therefore, this equation has exactly one distinct real solution. An equation of the form ax? + br + c= 0, where a, b, and care constants, has exactly one distinct real solution when the discriminant, b? — 4ac, is equal to 0. The equation 7? — 6x + (2k _ 26) = Ois of this form, where a = 1, b = —6, and c = 2k — 26. Substituting these values into the discriminant, b? — 4ac, yields (—6)? — 4(1)(2k — 26). Setting the discriminant equal to 0 yields (-6)? — 4(1)(2k — 26) = 0, or —8k + 140 = 0. Subtracting 140 from both sides of this equation yields —8k = —140. Dividing both sides of this equation by —8 yields k = 3. Note that 35/2 and 17.5 are examples of ways to enter a correct answer."
+  },
+  {
+    "id": "5822c232",
+    "question": "Answer\nCorrect Answer: C\nRationale\nChoice C is correct. Factoring the denominator in the second term",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "Choice C is correct. Factoring the denominator in the second term of the given expression gives we + wh. This . . . . an wy. ay(y+12) y(x—8) expression can be rewritten with common denominators by multiplying the first term by ay? SING aoe) + zylan8) Adding these two terms yields eee Using the distributive property to rewrite this expression gives 2 _ 2 — ae Combining the like terms in the numerator of this expression gives ae"
+  },
+  {
+    "id": "8e3878fd",
+    "question": "P(t) = 1,800(1.02)*  The function P gives the estimated number of marine mammals in a certain area, where t is the number of years since a study began. What is the best interpretation of P(0) = 1,800 in this context?",
+    "choices": [
+      "The estimated number of marine mammals in the area was 102 when the study began.",
+      "The estimated number of marine mammals in the area was 1,800 when the study began.",
+      "The estimated number of marine mammals in the area increased by 102 each year during the study.",
+      "The estimated number of marine mammals in the area increased by 1,800 each year during the study."
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "8e3878fd",
+    "question": "Answer\n\nCorrect Answer: B\n\nRationale\n\nChoice B is correct. The function P gives the estimated number",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "Choice B is correct. The function P gives the estimated number of marine mammals in a certain area, where ¢ is the number of years since a study began. Since the value of P(0) is the value of P(t) when ¢ = 0, it follows that P(0) = 1,800 means that the value of P(t) is 1,800 when ¢ = 0. Since ¢ is the number of years since the study began, it follows that t = Ois 0 years since the study began, or when the study began. Therefore, the best interpretation of P(0) = 1,800 in this context is the estimated number of marine mammals in the area was 1,800 when the study began."
+  },
+  {
+    "id": "9c086e5a",
+    "question": "[3 | a | The table shows three values of x and their corresponding values of y for the equation y = 4(2)” + 3.In the table, a is a constant. What is the value of a?",
+    "choices": [
+      "67",
+      "35  c. 32",
+      "",
+      "27"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "9c086e5a",
+    "question": "Answer\n\nCorrect Answer: B\n\nRationale\n\nChoice B is correct. It's given that the table shows three val",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "Choice B is correct. It's given that the table shows three values of x and their corresponding values of y for the equation y= 4(2)* + 3. It's also given that when x = 3 the corresponding value of y is a, and ais a constant. Substituting 3 for x and a for y in the given equation yields a = 4(2)° + 3, or a = 35. Therefore, the value of ais 35."
+  },
+  {
+    "id": "4782fd69",
+    "question": "The function f(x) = 206(1.034)” models the value, in dollars, of a certain bank account by the end of each year from 1957 through 1972, where is the number of years after 1957. Which of the following is the best interpretation of “f(5) is approximately equal to 243” in this context?",
+    "choices": [
+      "The value of the bank account is estimated to be approximately 5 dollars greater in 1962 than in 1957.",
+      "The value of the bank account is estimated to be approximately 243 dollars in 1962.",
+      "The value, in dollars, of the bank account is estimated to be approximately 5 times greater in 1962 than in  1957.",
+      "The value of the bank account is estimated to increase by approximately 243 dollars every 5 years between 1957 and 1972."
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "4782fd69",
+    "question": "Answer\n\nCorrect Answer: B\n\nRationale\n\nChoice B is correct. It’s given that the function f(z) = 206(1",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "Choice B is correct. It’s given that the function f(z) = 206(1.034)” models the value, in dollars, of a certain bank account by the end of each year from 1957 through 1972, where z is the number of years after 1957. It follows that f(x) represents the estimated value, in dollars, of the bank account & years after 1957. Since the value of f(5) is the value of f(a) when  x = 5, it follows that “f(5) is approximately equal to 243” means that f(z) is approximately equal to 243 when x = 5. In the given context, this means that the value of the bank account is estimated to be approximately 243 dollars 5 years after 1957. Therefore, the best interpretation of the statement “f(5) is approximately equal to 243” in this context is the value of the bank account is estimated to be approximately 243 dollars in 1962."
+  },
+  {
+    "id": "d08a5d15",
+    "question": "The function f is defined by f(x) = 5a”. What is the value of f(8)?",
+    "choices": [
+      "40",
+      "50 c. 80",
+      "",
+      "320"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "d08a5d15",
+    "question": "Answer\nCorrect Answer: D\nRationale\nChoice D is correct. It's given that the function f is defined by",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. It's given that the function f is defined by f(x) = 52. Substituting 8 for xin f(x) = 52? yields f(8) = 5(8)*, which is equivalent to f(8) = 5(64), or f(8) = 320. Therefore, the value of f(8) is 320."
+  },
+  {
+    "id": "696e199b",
+    "question": "(x+9)(x-9) _ «+9 =7 What is the solution to the given equation?",
+    "choices": [
+      "7",
+      "9 c.16",
+      "",
+      "63"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "696e199b",
+    "question": "Answer\nCorrect Answer: C\nRationale\nChoice C is correct. Since the left-hand side of the given equati",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "Choice C is correct. Since the left-hand side of the given equation has a factor of z + 9 in both the numerator and the denominator, the solution to the given equation can be found by solving the equation z — 9 = 7. Adding 9 to both sides of this equation yields z = 16. Substituting 16 for z in the given equation yields 6+ 9)069) = 7,or 7 = 7. Therefore, the solution to the given equation is 16."
+  },
+  {
+    "id": "c9f2f07d",
+    "question": "f(x) = (@ + 6)(x + 5)(# — 4)\nThe function f is given. Which table of values represents y = f(x) — 3?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "c9f2f07d",
+    "question": "Answer\nCorrect Answer: B\nRationale\nChoice B is correct. It's given that f(z) = (x + 6)(a + 5)(a — 4)",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": ""
+  },
+  {
+    "id": "6fbfbe",
+    "question": "Od\nx = 8a(b+ 9)\nThe given equation relates the positive numbers a, b, and x. Which equation correctl",
+    "choices": [
+      "",
+      "a = 3649) __ 8(b+9) Ca= —.",
+      "",
+      "a = 82(b+ 9)"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "6fbfbe",
+    "question": "Od Answer\nCorrect Answer: B\nRationale\nChoice B is correct. To express a in terms of b and z, the giv",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "Choice B is correct. To express a in terms of b and z, the given equation can be rewritten such that a is isolated on one side of the equation. Since it’s given that bis a positive number, b + 9 is not equal to zero. Therefore, dividing both sides of the : : : , : oo _ given equation by 8(b + 9) yields the equivalent equation Wy = U08a= wy"
+  },
+  {
+    "id": "fe81a236",
+    "question": "The function g is defined by g(x) = x(a — 2)(x + 6)”. The value of g(7 — w) is 0, where w is a const",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "fe81a236",
+    "question": "Answer\nCorrect Answer: 25\nRationale\nThe correct answer is 25. The value of g(7 — w) is the value of ",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is 25. The value of g(7 — w) is the value of g(x) when x = 7 — w, where w is a constant. Substituting 7 — wfor z in the given equation yields g(7 — w) = (7 — w)(7 — w— 2)(7—wt 6)’, which is equivalent to g(7 — w) = (7 — w)(5 — w)(13 — w)”. It’s given that the value of g(7 — w) is 0. Substituting 0 for g(7 — w) in the equation (7 — w) = (7 — w)(5 — w)(13 — w)” yields 0 = (7 — w)(5 — w)(13 — w)”. Since the product of the three factors on the right-hand side of this equation is equal to 0, at least one of these three factors must be equal to 0. Therefore, the possible values of w can be found by setting each factor equal to 0. Setting the first factor equal to 0 yields 7 — w = 0. Adding w to both sides of this equation yields 7 = w. Therefore, 7 is one possible value of w. Setting the second factor equal to 0 yields 5 — w = 0. Adding w to both sides of this equation yields 5 = w. Therefore, 5 is a second possible value of w. Setting the third factor equal to 0 yields (13 — w)* = 0. Taking the square root of both sides of this equation yields 13 — w = 0. Adding w to both sides of this equation yields 13 = w. Therefore, 13 is a third possible value of w. Adding the three possible values of w yields 7 + 5 + 13, or 25. Therefore, the sum of all possible values of w is 25."
+  },
+  {
+    "id": "54bf74ea",
+    "question": "p(t) = 90,000(1.06)*\nThe given function p models the population of Lowell ¢ years after a census. Wh",
+    "choices": [
+      "",
+      "",
+      "",
+      "r(m) = 90,000(1.06) ”"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "54bf74ea",
+    "question": "Answer\n\nCorrect Answer: D\nRationale\nChoice D is correct. It's given that the function p models the p",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. It's given that the function p models the population of Lowell t years after a census. Since there are 12 months in a year, m months after the census is equivalent to > years after the census. Substituting D for t in the equation p(t) = 90,000(1.06)* yields p(z) = 90,000(1.06) 1 , Therefore, the function r that best models the population of Lowell m months after the census is r(m) = 90,000(1.06) ®."
+  },
+  {
+    "id": "5bfaf155",
+    "question": "Answer\nCorrect Answer: D\nRationale\nChoice D is correct. To express n in terms of p, the given equati",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. To express n in terms of p, the given equation must be solved for n. Subtracting 9 from both sides of the given equation yields p — 9 = 4 Since n is not equal to 0, multiplying both sides of this equation by n yields (p — 9)(n) = 14. It's given that p > 9, which means p — 9 is not equal to 0. Therefore, dividing both sides of _ i (p-9)(m) _ 14 _ 14 (p — 9)(n) = 14 by (p — 9) yields — = pparn= so."
+  },
+  {
+    "id": "8217606b",
+    "question": "64x” — (16a + 4b)z + ab =0\nIn the given equation, a and b are positive constants. The sum of the sol",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "8217606b",
+    "question": "Answer\nCorrect Answer: .0625, 1/16\nRationale\nThe correct answer is +. Let pand q represent the solut",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is +. Let pand q represent the solutions to the given equation. Then, the given equation can be rewritten as 64(a2 — p)(a — q) = 0, or 64x? — 64(p + q) + pg = 0. Since this equation is equivalent to the given equation, it follows that —(16a + 4b) = —64(p + q). Dividing both sides of this equation by —64 yields A644 =p+q or 4; (4a + b) = p+q. Therefore, the sum of the solutions to the given equation, p + q, is equal to +; (4a + b). Since it's given that the sum of the solutions to the given equation is k(4a + b), where kis a constant, it follows that k = + Note that 1/16, .0625, 0.062, and 0.063 are examples of ways to enter a correct answer. Alternate approach: The given equation can be rewritten as 64a” — 4(4a + b)x + ab = 0, where aand bare positive constants. Dividing both sides of this equation by 4 yields 162? — (4a + b)ax + ra = 0. The solutions for a quadratic equation in the form Ax? + Bx + C = 0, where A, B, and C are constants, can be calculated using the quadratic formula, x = —B+vB°-44c vB AAC and g = —B-vB’-4Ac vB AAC It follows that the sum of the solutions to a quadratic equation in the form Az? + Br + C = Ois —B+V 2 -44c vBPAAC 4+ —B-vBP-4AC vBPAAC which can be rewritten as —2+-Btv B’-4AC—v B’-4AC VBP AAC Vv BP-AAC which is equivalent to #3. or 2. In the equation 162? — (4a + b)a + # =0,A= 16, B= —(4a + 6), and C = ob . Substituting 16 for A and —(4a + 6) for Bin -4 yields —=e) which can be rewritten as is (4a + b). Thus, the sum of the solutions to the given equation is +; (4a + b). Since it's given that the sum of the solutions to the given equation is k(4a + b), where kis a constant, it follows that k = +"
+  },
+  {
+    "id": "a51ff0d6",
+    "question": "2\nf(x) =(@+7)°+4\nThe function f is defined by the given equation. For what value of 2 does f(z) reac",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "a51ff0d6",
+    "question": "Answer\nCorrect Answer: -7\nRationale\nThe correct answer is —7. For a quadratic function defined by an",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is —7. For a quadratic function defined by an equation of the form f(x) = a(x — hy? + k, where a, h, and kare constants and a > 0, the function reaches its minimum when x = h. In the given function, a = 1, h = —7, and k = 4. Therefore, the value of x for which f(a) reaches its minimum is —7."
+  },
+  {
+    "id": "4443355f",
+    "question": "The expression 4a” + ba — 45, where bis a constant, can be rewritten as (ha + k)(a + 7), where h, k, and 7 are integer constants. Which of the following must be an integer? b",
+    "choices": [
+      "h b",
+      "k 45 Cc. h 45",
+      "",
+      "e"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "4443355f",
+    "question": "Answer\nCorrect Answer: D\nRationale\nChoice D is correct. It's given that 4a? + ba — 45 can be rewritt",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. It's given that 4a? + ba — 45 can be rewritten as (ha + k)(x + j). The expression (hx + k)(x + j) can be rewritten as ha? + jha + kx + kj, or hx” + (jh +k)x + kj. Therefore, ha? + (jh + k)x + kjis equivalent to 4x? + ba — 45. It follows that kj = —45. Dividing each side of this equation by k yields j = =. Since 7 is an integer, -= must be an integer. Therefore, & must also be an integer."
+  },
+  {
+    "id": "0e4cd7da",
+    "question": "Which quadratic equation has no real solutions?\nAa? + 142 — 49 =0\nB. 2? — 142 + 49 = 0\nc. 5a? — 142 ",
+    "choices": [
+      "",
+      "2? — 142 + 49 = 0 c. 5a? — 142 — 49 =0 bv. 5a? — 1474+ 49 =0",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "0e4cd7da",
+    "question": "Answer\nCorrect Answer: D\nRationale\nChoice D is correct. The number of solutions to a quadratic equat",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. The number of solutions to a quadratic equation in the form az? +br+c= 0, where a, b, and care constants, can be determined by the value of the discriminant, b? — 4ac. If the value of the discriminant is greater than zero, then the quadratic equation has two distinct real solutions. If the value of the discriminant is equal to zero, then the quadratic equation has exactly one real solution. If the value of the discriminant is less than zero, then the quadratic equation has no real solutions. For the quadratic equation in choice D, 5x? — 142 + 49 = 0,a = 5,b = —14, andc = 49. Substituting 5 for a, —14 for b, and 49 for cin b? — 4ac yields (—14)? — 4(5)(49), or —784. Since —784 is less than zero, it follows that the quadratic equation 5a? — 14a + 49 = 0 has no real solutions."
+  },
+  {
+    "id": "a1397504",
+    "question": "0.36x? + 0.632 + 1.17\nThe given expression can be rewritten as a(42? +72 + 13), where a is a constan",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "a1397504",
+    "question": "Answer\nCorrect Answer: .09, 9/100\nRationale\nThe correct answer is .09. It's given that the expressio",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is .09. It's given that the expression 0.36z? + 0.632 + 1.17 can be rewritten as a(4x? +7x#+ 13). Applying the distributive property to the expression a(4a? + 7x + 13) yields 4axz? + Tax + 13a. Therefore, 0.362? + 0.63” + 1.17 can be rewritten as dax? + Tax + 13a. It follows that in the expressions 0.36x? + 0.63a + 1.17 and 4ax? + 7ax + 13a, the coefficients of x? are equivalent, the coefficients of x are equivalent, and the constant terms are equivalent. Therefore, 0.36 = 4a, 0.63 = 7a, and 1.17 = 13a. Solving any of these equations for a yields the value of a. Dividing both sides of the equation 0.36 = 4a by 4 yields 0.09 = a. Therefore, the value of a is 0.09. Note that .09 and 9/100 are examples of ways to enter a correct answer."
+  },
+  {
+    "id": "536832c0",
+    "question": "Inthe zyplane, a line with equation 2y = 4.5 intersects a parabola at exactly one point. If the para",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "536832c0",
+    "question": "Answer\nCorrect Answer: 6\nRationale\nThe correct answer is 6. It’s given that a line with equation 2y ",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is 6. It’s given that a line with equation 2y = 4. 5 intersects a parabola with equation y = —4a? + bz, where bis a positive constant, at exactly one point in the xy-plane. It follows that the system of equations consisting of 2y = 4.5andy = —Az? + bz has exactly one solution. Dividing both sides of the equation of the line by 2 yields y = 2.25. Substituting 2.25 for y in the equation of the parabola yields 2.25 = —4x? + ba. Adding 4x? and subtracting bz from both sides of this equation yields 4? — bx + 2.25 = 0. A quadratic equation in the form of ax” + br +c =0, where a, b, and c are constants, has exactly one solution when the discriminant, b? — 4ac, is equal to zero. Substituting 4 for a and 2.25 for c in the expression b? — 4ac and setting this expression equal to 0 yields b? — 4(4) (2. 25) = 0,or b? — 36 = 0. Adding 36 to each side of this equation yields b? = 36. Taking the square root of each side of this equation yields b = +6. It’s given that b is positive, so the value of bis 6."
+  },
+  {
+    "id": "90990b9a",
+    "question": "z= 49 y= Va+9 The graphs of the given equations intersect at the point (a, y) in the xy-plane. What is the value of y?",
+    "choices": [
+      "16",
+      "40 c. 81",
+      "",
+      "130"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "90990b9a",
+    "question": "Answer\nCorrect Answer: A\nRationale\nChoice A is correct. It's given that the graphs of the given equa",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "Choice A is correct. It's given that the graphs of the given equations intersect at the point (2, y) in the xy-plane. It follows that (a, y) represents a solution to the system consisting of the given equations. The first equation given is 2 = 49. Substituting 49 for x in the second equation given, y = Va + 9, yields y = V49 + 9, which is equivalent to y = 7 + 9, or y = 16. It follows that the graphs of the given equations intersect at the point (49, 16). Therefore, the value of yis 16."
+  },
+  {
+    "id": "72bf9318",
+    "question": "The function f is defined by f(x) = 7°. In the xy-plane, the graph of y = g(a) is the result of shifting the graph of y = f(z) down 2 units. Which equation defines function g? — 71,3",
+    "choices": [
+      "g(z) = 4a",
+      "",
+      "g(x) = 7x3 + 2",
+      "g(x) = 7x* — 2"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "72bf9318",
+    "question": "Answer\n\nCorrect Answer: D\nRationale\nChoice D is correct. If the graph of y = g(z) is the result of s",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. If the graph of y = g(z) is the result of shifting the graph of y = f(a) down k units in the xy-plane, the function g can be defined by an equation of the form g(x) = f(a) — k. It's given that f(z) = 7x3 and the graph of y = g(z) is the result of shifting the graph of y = f(x) down 2 units. Substituting 7a? for f(x) and 2 for k in the equation a(t) = f(«) — kyields g(x) = 728 — 2."
+  },
+  {
+    "id": "32dce74a4",
+    "question": "A right rectangular prism has a height of 9 inches. The length of the prism's base is z inches, which is 7 inches more than the width of the prisms base. Which function V gives the volume of the prism, in cubic inches, in terms of the length of the prism's base?",
+    "choices": [
+      "V(x) = «(4+ 9)(x + 7)",
+      "V(x) = 2(x + 9)(x — 7)  c. V(x) = 9x(x + 7)",
+      "",
+      "V(x) = 9x(x — 7)"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "32dc74a4",
+    "question": "Answer\n\nCorrect Answer: D\n\nRationale\n\nChoice D is correct. The volume of a right rectangular prism c",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. The volume of a right rectangular prism can be represented by a function V that gives the volume of the prism, in cubic inches, in terms of the length of the prism’s base. The volume of a right rectangular prism is equal to the area of its base times its height. It's given that the length of the prism’s base is z inches, which is 7 inches more than the width of the prism's base. This means that the width of the prism’s base is  — 7 inches. It follows that the area of the prism's base, in square inches, is (a — 7) and the volume, in cubic inches, of the prism is x(a — 7)(9). Thus, the function V that gives the volume of this right rectangular prism, in cubic inches, in terms of the length of the prisms base, 2, is  V(x) = 9x(a — 7)."
+  },
+  {
+    "id": "097bd3c9",
+    "question": "y—57=pex\nThe given equation relates the positive numbers p, x, and y. Which equation correctly expre",
+    "choices": [
+      "",
+      "y = px +57",
+      "y = 57 pz — be Dy= 57",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "097bd3c9",
+    "question": "Answer\nCorrect Answer: B\nRationale\nChoice B is correct. Adding 57 to each side of the given equation",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "Choice B is correct. Adding 57 to each side of the given equation yields y = px + 57. Therefore, the equation y = px + 57 correctly expresses y in terms of p and z."
+  },
+  {
+    "id": "21be3fbd",
+    "question": "The function g is defined by g(x) = |x + 18]. What is the value of g(4)?",
+    "choices": [
+      "—18",
+      "—4 c.14",
+      "",
+      "22"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "21be3fbd",
+    "question": "Answer\nCorrect Answer: D\nRationale\nChoice D is correct. The value of g(4) is the value of g(a) when ",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. The value of g(4) is the value of g(a) when x = 4. Substituting 4 for a in the given equation yields g(4) = |4 + 18], which is equivalent to g(4) = |22|, or g(4) = 22. Therefore, the value of g(4) is 22."
+  },
+  {
+    "id": "07e83fd6",
+    "question": "b= 42cf The given equation relates the positive numbers 8, c, and f. Which equation correctly expresses c in terms of band f? —",
+    "choices": [
+      "c = af b—42",
+      "c= — C= F c.c = 42bf bDc=42—b-f",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "07e83fd6",
+    "question": "Answer\nCorrect Answer: A\nRationale\nChoice A is correct. It's given that the equation b = 42cf relate",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "Choice A is correct. It's given that the equation b = 42cf relates the positive numbers b, c, and f. Dividing each side of the given equation by 42f yields Ff =core= oF Thus, the equation c = rd correctly expresses cin terms of b and f."
+  },
+  {
+    "id": "408d3547",
+    "question": "(5x + 4)(2x — 5) =0\nWhich of the following is a solution to the given equation?\n5\nA>\n5\nB.-]\n4\nC.—<\n2",
+    "choices": [
+      "",
+      "-] 4",
+      "—< 2",
+      "— +s"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "408d3547",
+    "question": "Answer\nCorrect Answer: C\nRationale\nChoice C is correct. Since a product of two factors is equal to 0",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "Choice C is correct. Since a product of two factors is equal to 0 if and only if at least one of the factors is 0, either 52 +4 = 0or 2a — 5 = 0. Subtracting 4 from each side of the equation 52 + 4 = Oyields 54 = —4. Dividing each side of this equation by 5 yields x = —4. Adding 5 to each side of the equation 2x — 5 = 0 yields 2x = 5. Dividing each side of this equation by 2 yields 7 = 3. It follows that the solutions to the given equation are 4 and Z. Therefore, 4 isa solution to the given equation."
+  },
+  {
+    "id": "1d670e5f",
+    "question": "f(x) = 2? — 48a + 2,304\nWhat is the minimum value of the given function?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "1d670e5f",
+    "question": "Answer\nCorrect Answer: 1728\nRationale\nThe correct answer is 1,728. The given function can be rewritt",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is 1,728. The given function can be rewritten in the form f(x) = a(x — hy? + k, where a is a positive constant and the minimum value, k, of the function occurs when the value of x is h. By completing the square, , 2 2 f(x) = x? — 48a + 2,304 can be written as f(x) = 2 — 48a + (42)\" + 2,304 — (48)\", or f(z) = (a - 24)? + 1,728. This equation is in the form f(x) = a(x — hy? +k, where a = 1,h = 24, and k = 1,728. Therefore, the minimum value of the given function is 1,728."
+  },
+  {
+    "id": "78eae128",
+    "question": "y = 2(x — d)(x + d)(x + g)(a — d)\n\nIn the given equation, d and g are unique positive constants. Whe",
+    "choices": [
+      "",
+      "3  c.2",
+      "",
+      "1"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "78eae128",
+    "question": "Answer\n\nCorrect Answer: B\nRationale\nChoice B is correct. An x-intercept of a graph in the xy-plane i",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "Choice B is correct. An x-intercept of a graph in the xy-plane is a point on the graph where the value of y is 0. Substituting 0 for y in the given equation yields 0 = 2(a — d)(x + d)(x + g)(x — d). By the zero product property, the solutions to this equation are x = d, x = —d, x = —g,and x = d. However, z = dand x = dare identical. It's given that d and g are unique positive constants. It follows that the equation 0 = 2(a — d)(x + d)(a + g)(a — d) has 3 unique solutions: x = d,x = —d,and x = ~g. Thus, the graph of the given equation has 3 distinct x-intercepts."
+  },
+  {
+    "id": "f0b332e0",
+    "question": "Answer\n\nCorrect Answer: A\n\nRationale\n\nChoice A is correct. In the given function, s(t) represents th",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "Choice A is correct. In the given function, s(t) represents the approximate mass, in grams, of the sample that remains t years after the sample starts to decay. It follows that the best interpretation of s(87) = 23 is that approximately 23 grams of the sample remains 87 years after the sample starts to decay."
+  },
+  {
+    "id": "1c7b6b0a",
+    "question": "—_ _k\nP= G+\nThe given equation relates the distinct positive numbers p, k, and 7. Which equation cor",
+    "choices": [
+      "",
+      "47 + 9 = kp",
+      "47+9=k—p : — P ID: 1¢7b6b0a Answer Correct Answer: A Rationale Choice A is correct. To express 47 + 9 in terms of p and k, the given equation must be solved for 47 + 9. Since it's given that 7 is a positive number, 47 + 9 is not equal to zero. Therefore, multiplying both sides of the given equation by 47 + 9 yields the equivalent equation p(4j + 9) = k. Since it's given that p is a positive number, p is not equal to zero. Therefore, dividing each side of the equation p(4j + 9) = kby pyields the equivalent equation 47 + 9 = £. . i: . ar . _ 4j+9 Choice B is incorrect. This equation is equivalent to p = —]—. Choice C is incorrect. This equation is equivalent to p = k — 47 — 9. Choice D is incorrect. This equation is equivalent to p = k(4j + 9). Question Difficulty: Medium",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "Choice A is correct. To express 47 + 9 in terms of p and k, the given equation must be solved for 47 + 9. Since it's given that 7 is a positive number, 47 + 9 is not equal to zero. Therefore, multiplying both sides of the given equation by 47 + 9 yields the equivalent equation p(4j + 9) = k. Since it's given that p is a positive number, p is not equal to zero. Therefore, dividing each side of the equation p(4j + 9) = kby pyields the equivalent equation 47 + 9 = £. . i: . ar . _ 4j+9"
+  },
+  {
+    "id": "6c28bdc9",
+    "question": "x(a +1) — 56 = 4a(a2 — 7)\nWhat is the sum of the solutions to the given equation?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "6c28bdc9",
+    "question": "Answer\nCorrect Answer: 29/3, 9.666, 9.667\nRationale\nThe correct answer is 2 Applying the distributiv",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is 2 Applying the distributive property to the left-hand side of the given equation, x(x + 1) — 56, yields xz? + 2 — 56. Applying the distributive property to the right-hand side of the given equation, 42(ax — 7), yields 4x? — 28x. Thus, the equation becomes a? + 2 — 56 = 4a? — 282. Combining like terms on the left- and right-hand sides of this equation yields 0 = (4a? — x”) + (—28x — a) + 56, or 32? — 29% + 56 = 0. For a quadratic equation in the form az? + br +c = 0, where a, b, and c are constants, the quadratic formula gives the solutions to the equation in the (—b+vb?—4ac) 3 form 2 = ~—_,-——.. Substituting 3 for a, —29 for b, and 56 for c from the equation 32° — 29x + 56 = 0 into the (20% / (-29)*-4()(60)) quadratic formula yields z = nC) ore = 2 + 2. It follows that the solutions to the given equation are 2 + 2 and 2 _ 2. Adding these two solutions gives the sum of the solutions: 2 + 2 + # _ 2, which is equivalent to a + aa or 2. Note that 29/3, 9.666, and 9.667 are examples of ways to enter a correct answer."
+  },
+  {
+    "id": "feea2bbd",
+    "question": "y\nee ed\nee ed\nee ed\nF \\.| |\nes\nF \\y\nFF Vist\n1\nA\nPo\nijpN\ni O i\n>]\nThe graph of the exponential functi",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "feea2bbd",
+    "question": "Answer\nCorrect Answer: 3\nRationale\nThe correct answer is 3. It's given that the y-intercept of the g",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is 3. It's given that the y-intercept of the graph shown is (0, y). The graph passes through the point (0, 3) . Therefore, the value of yis 3."
+  },
+  {
+    "id": "ed5b7c61",
+    "question": "q(x) = 32(2”)\n\nWhich table gives three values of x and their corresponding values of q(x) for functi",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "ed5b7c61",
+    "question": "Answer\n\nCorrect Answer: D\nRationale\nChoice D is correct. Substituting —1 for a in the given function",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. Substituting —1 for a in the given function yields g(—1) = 32(2)~', which is equivalent to q(—1) = 32(+), or q(—1) = 16. Therefore, when « = —1, the corresponding value of q(x) for function qis 16. Substituting 0 for « in the given function yields g(0) = 32(2)°, which is equivalent to g(0) = 32(1), or g(0) = 32. Therefore, when « = 0, the corresponding value of q(x) for function q is 32. Substituting 1 for x in the given function yields g(1) = 32(2)', which is equivalent to q(1) = 32(2), or q(1) = 64. Therefore, when x = 1, the corresponding value of q(x) for function gis 64. Of the choices given, only the table in choice D gives these three values of x and their corresponding values of g(a) for function g."
+  },
+  {
+    "id": "4bed3f66",
+    "question": "Which expression is equivalent to 34a + 34y?",
+    "choices": [
+      "34ay",
+      "34(x + y)",
+      "68y",
+      "68a"
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "4bed3f66",
+    "question": "Answer\nCorrect Answer: B\nRationale\nChoice B is correct. Since 34 is a common factor of each term in ",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "Choice B is correct. Since 34 is a common factor of each term in the given expression, the expression can be rewritten as 34(x + y)."
+  },
+  {
+    "id": "7f4b32e1",
+    "question": "3 7\nGz) = 5a+%\nh(x) = 6a —5\nThe functions g and h are defined by the equations shown. Which expressi",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "7f4b32e1",
+    "question": "Answer\nCorrect Answer: D\nRationale\nChoice D is correct. It's given that g(z) = 22+ 4 and h(x) = 6x —",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "Choice D is correct. It's given that g(z) = 22+ 4 and h(x) = 6x — 5. Substituting 22 + 1 for g(x) and 6x — 5 for h(a) in the expression g(x) - h(a) yields (32 + z) (6x — 5). This expression can be rewritten as 22(62 —5)+ Z (6x — 5), or 180\" — 32+ 7x — 8, which is equivalent to Ase? + 4e — 3"
+  },
+  {
+    "id": "c9d2651d",
+    "question": "If 322 — 18a — 15 = 0, what is the value of x? — 6x?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "c9d2651d",
+    "question": "Answer\nCorrect Answer: 5\nRationale\nThe correct answer is 5. Dividing each side of the given equation",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is 5. Dividing each side of the given equation by 3 yields 2? — 6a — 5 = 0. Adding 5 to each side of this equation yields x? — 62 = 5. Therefore, if 32? — 18a — 15 = 0, the value of x? — 6z is 5."
+  },
+  {
+    "id": "eafd61d3",
+    "question": "The expression (32 — 23)(19z + 6) is equivalent to the expression ax? + bx +c, where a, b, and care\n",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": ""
+  },
+  {
+    "id": "eafd61d3",
+    "question": "Answer\nCorrect Answer: -419\nRationale\nThe correct answer is —419. It's given that the expression (32",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": null,
+    "explanation": "The correct answer is —419. It's given that the expression (32 — 23)(19a + 6) is equivalent to the expression ax? + bx +c, where a, b, and care constants. Applying the distributive property to the given expression, (3a — 23)(19x + 6), yields (3x)(19x) + (3x)(6) — (23)(19x) — (23)(6), which can be rewritten as 57a? + 18x — 4372 — 138. Combining like terms yields 57x? — 419x — 138. Since this expression is equivalent to ax” + ba + ¢, it follows that the value of bis —419."
+  }
+]

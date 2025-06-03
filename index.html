@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SAT Practice</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background: #f4f4f4;
+    }
+    .question-box {
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      margin-bottom: 20px;
+    }
+    .choices label {
+      display: block;
+      margin-bottom: 10px;
+    }
+    button {
+      margin-top: 10px;
+      padding: 10px 20px;
+      font-size: 16px;
+    }
+    .correct {
+      color: green;
+    }
+    .incorrect {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <h1>SAT Practice Questions</h1>
+  <div class="question-box">
+    <div id="question"></div>
+    <form id="choices" class="choices"></form>
+    <button onclick="checkAnswer()">Check Answer</button>
+    <p id="feedback"></p>
+    <p id="explanation"></p>
+    <button onclick="nextQuestion()">Next Question</button>
+  </div>
+
+  <script>
+    let questions = [];
+    let current = 0;
+
+    async function loadJSON() {
+      const res = await fetch("ocr_questions.json");
+      questions = await res.json();
+      loadQuestion();
+    }
+
+    function loadQuestion() {
+      const q = questions[current];
+      document.getElementById('question').innerText = q.question;
+      const choicesForm = document.getElementById('choices');
+      choicesForm.innerHTML = '';
+      q.choices.forEach((choice, index) => {
+        choicesForm.innerHTML += `
+          <label>
+            <input type="radio" name="choice" value="${index}"> ${choice}
+          </label>`;
+      });
+      document.getElementById('feedback').innerText = '';
+      document.getElementById('explanation').innerText = '';
+    }
+
+    function checkAnswer() {
+      const selected = document.querySelector('input[name="choice"]:checked');
+      if (!selected) return alert("Please select an answer.");
+
+      const selectedIndex = parseInt(selected.value);
+      const correctIndex = questions[current].answer;
+      const feedback = document.getElementById('feedback');
+
+      if (selectedIndex === correctIndex) {
+        feedback.innerText = "Correct!";
+        feedback.className = "correct";
+      } else {
+        feedback.innerText = `Incorrect.`;
+        feedback.className = "incorrect";
+      }
+      document.getElementById('explanation').innerText = questions[current].explanation;
+    }
+
+    function nextQuestion() {
+      current = (current + 1) % questions.length;
+      loadQuestion();
+    }
+
+    loadJSON();
+  </script>
+</body>
+</html>
